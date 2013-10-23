@@ -16,7 +16,6 @@ public class CalculadoraPresentacion {
     public static void main(String[] args) {
         // TODO code application logic here
         
-       InterfazCalculadora in=new InterfazCalculadora();
-        
+       InterfazCalculadora github=new InterfazCalculadora();  
     }
 }
